@@ -1,0 +1,607 @@
+/Users/divar/anaconda3/envs/virtual_platform/bin/python /Users/divar/Documents/000/UNI/AI/Project/AIProject/geneticAlgorithm/main.py
+generation 0 of 5000
+maxFitnessValue: 0.003057739678462429
+
+generation 100 of 5000
+maxFitnessValue: 0.11713181731466425
+
+generation 200 of 5000
+maxFitnessValue: 0.2311817036455512
+
+generation 300 of 5000
+maxFitnessValue: 0.23118170371631155
+
+generation 400 of 5000
+maxFitnessValue: 0.2312443137314635
+
+generation 500 of 5000
+maxFitnessValue: 0.2312443137314635
+
+generation 600 of 5000
+maxFitnessValue: 0.2312500493741166
+
+generation 700 of 5000
+maxFitnessValue: 0.2312575782450364
+
+generation 800 of 5000
+maxFitnessValue: 0.2312575782450364
+
+generation 900 of 5000
+maxFitnessValue: 0.2312575782450364
+
+generation 1000 of 5000
+maxFitnessValue: 0.23125760029730538
+
+generation 1100 of 5000
+maxFitnessValue: 0.23125760029730538
+
+generation 1200 of 5000
+maxFitnessValue: 0.23125760029730538
+
+generation 1300 of 5000
+maxFitnessValue: 0.23125760029730538
+
+generation 1400 of 5000
+maxFitnessValue: 0.23125760029730538
+
+generation 1500 of 5000
+maxFitnessValue: 0.23125774854762923
+
+generation 1600 of 5000
+maxFitnessValue: 0.23125774854762923
+
+generation 1700 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 1800 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 1900 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2000 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2100 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2200 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2300 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2400 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2500 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2600 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2700 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2800 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 2900 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 3000 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 3100 of 5000
+maxFitnessValue: 0.23125774855293602
+
+generation 3200 of 5000
+maxFitnessValue: 0.23125852599048044
+
+generation 3300 of 5000
+maxFitnessValue: 0.23125852599048044
+
+generation 3400 of 5000
+maxFitnessValue: 0.23125852599048044
+
+generation 3500 of 5000
+maxFitnessValue: 0.2312585260116921
+
+generation 3600 of 5000
+maxFitnessValue: 0.2312585260116921
+
+generation 3700 of 5000
+maxFitnessValue: 0.2312585320972567
+
+generation 3800 of 5000
+maxFitnessValue: 0.2312585320972567
+
+generation 3900 of 5000
+maxFitnessValue: 0.2312585320972567
+
+generation 4000 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4100 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4200 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4300 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4400 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4500 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4600 of 5000
+maxFitnessValue: 0.23125853210843547
+
+generation 4700 of 5000
+maxFitnessValue: 0.2312585321108157
+
+generation 4800 of 5000
+maxFitnessValue: 0.2312585321108157
+
+generation 4900 of 5000
+maxFitnessValue: 0.2312585321108157
+
+[0.6614233847028174, 0.067285043361954, 0.007912345283023984, 0.0010014305267716937, 0.2312585321108157]
+generation 0 of 5000
+maxFitnessValue: 0.003989730725286427
+
+generation 100 of 5000
+maxFitnessValue: 0.22876477118576863
+
+generation 200 of 5000
+maxFitnessValue: 0.22881667077734322
+
+generation 300 of 5000
+maxFitnessValue: 0.22983859906320003
+
+generation 400 of 5000
+maxFitnessValue: 0.23041858963828737
+
+generation 500 of 5000
+maxFitnessValue: 0.2304943288020828
+
+generation 600 of 5000
+maxFitnessValue: 0.2304943288020828
+
+generation 700 of 5000
+maxFitnessValue: 0.2305522134765617
+
+generation 800 of 5000
+maxFitnessValue: 0.2305522134765617
+
+generation 900 of 5000
+maxFitnessValue: 0.2305533706941734
+
+generation 1000 of 5000
+maxFitnessValue: 0.23057227401541697
+
+generation 1100 of 5000
+maxFitnessValue: 0.23057227401541697
+
+generation 1200 of 5000
+maxFitnessValue: 0.23057227401541697
+
+generation 1300 of 5000
+maxFitnessValue: 0.23057227401541697
+
+generation 1400 of 5000
+maxFitnessValue: 0.23057227401541697
+
+generation 1500 of 5000
+maxFitnessValue: 0.2305806370553178
+
+generation 1600 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 1700 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 1800 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 1900 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 2000 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 2100 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 2200 of 5000
+maxFitnessValue: 0.23058064398611433
+
+generation 2300 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2400 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2500 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2600 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2700 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2800 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 2900 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 3000 of 5000
+maxFitnessValue: 0.2305806441235085
+
+generation 3100 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3200 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3300 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3400 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3500 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3600 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3700 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3800 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 3900 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 4000 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 4100 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 4200 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 4300 of 5000
+maxFitnessValue: 0.23058077324007073
+
+generation 4400 of 5000
+maxFitnessValue: 0.23058077340908142
+
+generation 4500 of 5000
+maxFitnessValue: 0.23058077340908142
+
+generation 4600 of 5000
+maxFitnessValue: 0.23058077340908142
+
+generation 4700 of 5000
+maxFitnessValue: 0.23058077340908142
+
+generation 4800 of 5000
+maxFitnessValue: 0.23058077340908142
+
+generation 4900 of 5000
+maxFitnessValue: 0.23058077340908142
+
+[0.6637701416429486, 0.06760292408907224, 0.007929113555101843, 0.000995622424210634, 0.23058077340908142]
+generation 0 of 5000
+maxFitnessValue: 0.003667559815781996
+
+generation 100 of 5000
+maxFitnessValue: 0.21378854015440585
+
+generation 200 of 5000
+maxFitnessValue: 0.21378854015440585
+
+generation 300 of 5000
+maxFitnessValue: 0.21382742526589493
+
+generation 400 of 5000
+maxFitnessValue: 0.21382742526589493
+
+generation 500 of 5000
+maxFitnessValue: 0.21382748313266137
+
+generation 600 of 5000
+maxFitnessValue: 0.21402101494920503
+
+generation 700 of 5000
+maxFitnessValue: 0.21402101494920503
+
+generation 800 of 5000
+maxFitnessValue: 0.21402736237782102
+
+generation 900 of 5000
+maxFitnessValue: 0.21402736237782102
+
+generation 1000 of 5000
+maxFitnessValue: 0.21402736237782102
+
+generation 1100 of 5000
+maxFitnessValue: 0.21402736237782102
+
+generation 1200 of 5000
+maxFitnessValue: 0.21712887017664204
+
+generation 1300 of 5000
+maxFitnessValue: 0.22962195587496628
+
+generation 1400 of 5000
+maxFitnessValue: 0.22962195587496628
+
+generation 1500 of 5000
+maxFitnessValue: 0.22962195587496628
+
+generation 1600 of 5000
+maxFitnessValue: 0.2296219642414687
+
+generation 1700 of 5000
+maxFitnessValue: 0.229622071617601
+
+generation 1800 of 5000
+maxFitnessValue: 0.229622071617601
+
+generation 1900 of 5000
+maxFitnessValue: 0.229622071617601
+
+generation 2000 of 5000
+maxFitnessValue: 0.229622071617601
+
+generation 2100 of 5000
+maxFitnessValue: 0.229622071617601
+
+generation 2200 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2300 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2400 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2500 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2600 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2700 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2800 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 2900 of 5000
+maxFitnessValue: 0.22962208261562678
+
+generation 3000 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3100 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3200 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3300 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3400 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3500 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3600 of 5000
+maxFitnessValue: 0.22962247282848006
+
+generation 3700 of 5000
+maxFitnessValue: 0.2302894734226172
+
+generation 3800 of 5000
+maxFitnessValue: 0.2302894734226172
+
+generation 3900 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4000 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4100 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4200 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4300 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4400 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4500 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4600 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4700 of 5000
+maxFitnessValue: 0.23028979654596085
+
+generation 4800 of 5000
+maxFitnessValue: 0.23075293389649443
+
+generation 4900 of 5000
+maxFitnessValue: 0.23075293389649443
+
+[0.6632713203370817, 0.06791075124352378, 0.007978910224659411, 0.0011307781576974348, 0.23075293389649443]
+generation 0 of 5000
+maxFitnessValue: 0.018653191740056002
+
+generation 100 of 5000
+maxFitnessValue: 0.024132237874245403
+
+generation 200 of 5000
+maxFitnessValue: 0.024146018187932362
+
+generation 300 of 5000
+maxFitnessValue: 0.024146089491019686
+
+generation 400 of 5000
+maxFitnessValue: 0.039862428028006956
+
+generation 500 of 5000
+maxFitnessValue: 0.04134491655117706
+
+generation 600 of 5000
+maxFitnessValue: 0.04147927336878196
+
+generation 700 of 5000
+maxFitnessValue: 0.041479406159867484
+
+generation 800 of 5000
+maxFitnessValue: 0.09295674089256514
+
+generation 900 of 5000
+maxFitnessValue: 0.09295674089256514
+
+generation 1000 of 5000
+maxFitnessValue: 0.09295674089256514
+
+generation 1100 of 5000
+maxFitnessValue: 0.10938635489473414
+
+generation 1200 of 5000
+maxFitnessValue: 0.10938635489473414
+
+generation 1300 of 5000
+maxFitnessValue: 0.11580254284482412
+
+generation 1400 of 5000
+maxFitnessValue: 0.11580301450247849
+
+generation 1500 of 5000
+maxFitnessValue: 0.12142849381201652
+
+generation 1600 of 5000
+maxFitnessValue: 0.12142849381201652
+
+generation 1700 of 5000
+maxFitnessValue: 0.12142849381201652
+
+generation 1800 of 5000
+maxFitnessValue: 0.12143067739871319
+
+generation 1900 of 5000
+maxFitnessValue: 0.12143067739871319
+
+generation 2000 of 5000
+maxFitnessValue: 0.17040022973073207
+
+generation 2100 of 5000
+maxFitnessValue: 0.19132833167698274
+
+generation 2200 of 5000
+maxFitnessValue: 0.19132833167698274
+
+generation 2300 of 5000
+maxFitnessValue: 0.19132833167698274
+
+generation 2400 of 5000
+maxFitnessValue: 0.19132833167698274
+
+generation 2500 of 5000
+maxFitnessValue: 0.19132833167698274
+
+generation 2600 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 2700 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 2800 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 2900 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3000 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3100 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3200 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3300 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3400 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3500 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3600 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3700 of 5000
+maxFitnessValue: 0.19132837235719805
+
+generation 3800 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 3900 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 4000 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 4100 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 4200 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 4300 of 5000
+maxFitnessValue: 0.19133877900636106
+
+generation 4400 of 5000
+maxFitnessValue: 0.19523964258578155
+
+generation 4500 of 5000
+maxFitnessValue: 0.19523964258578155
+
+generation 4600 of 5000
+maxFitnessValue: 0.19523964258578155
+
+generation 4700 of 5000
+maxFitnessValue: 0.19523964258578155
+
+generation 4800 of 5000
+maxFitnessValue: 0.19523964258578155
+
+generation 4900 of 5000
+maxFitnessValue: 0.19523964258578155
+
+[0.6635434773823373, 0.06604113224255966, -0.0020170275986885096, 0.003072139072028642, 0.19523964258578155]
+
+Process finished with exit code 0
