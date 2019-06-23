@@ -1,0 +1,34 @@
+/Users/divar/anaconda3/envs/virtual_platform/bin/python /Users/divar/Documents/000/UNI/AI/Project/AIProject/geneticAlgorithm/main.py
+generation 0 of 5000
+maxFitnessValue: 0.0018095027680289624
+
+generation 500 of 5000
+maxFitnessValue: 0.931513931860883
+
+generation 1000 of 5000
+maxFitnessValue: 0.9920486857674432
+
+generation 1500 of 5000
+maxFitnessValue: 0.9973653956434133
+
+generation 2000 of 5000
+maxFitnessValue: 0.9990528130868864
+
+generation 2500 of 5000
+maxFitnessValue: 0.9995507894513768
+
+generation 3000 of 5000
+maxFitnessValue: 0.9997416854703061
+
+generation 3500 of 5000
+maxFitnessValue: 0.9997458863181712
+
+generation 4000 of 5000
+maxFitnessValue: 0.9997458863181712
+
+generation 4500 of 5000
+maxFitnessValue: 0.9998035011431174
+
+finalAnswer: [1.5863784600610558, 0.29444304946213845, -0.22324337482957624, 0.020198672673434278, 0.9998706532186049]
+
+Process finished with exit code 0

@@ -6,11 +6,12 @@ import numpy as np
 numberOfGenerations = 5000
 populationSize = 50
 tournamentSize = 2
-# mRs = [0.01, 0.02, 0.05, 0.1]
-mutationRate = 0.05
-numRange = 1  # -range to +range
-# Ss = [1e-2, 1e-1, 1, 10]
-sigma = 1e-3
+# mRs = [0.01, 0.02, 0.05, 0.1, 0.5, 0.75]
+mutationRate = 0.75
+numRange = 2  # -range to +range
+# Ss = [1e-3, 1e-2, 1e-1, 1, 10]
+sigma = 0.01
+
 
 def createSamples():
     x = np.arange(0, 10, 0.1)
@@ -29,8 +30,10 @@ def fitnessFunction(individual):
     MSE = 0
 
     for i in range(x.size):
+        yHat = 0
         for j in range(4):
-            MSE += (individual[j] * x[i] ** j - Y[i]) ** 2
+            yHat += (individual[j] * x[i] ** j)
+        MSE += (yHat - Y[i])**2
 
     MSE /= len(x)
     return 1 / (1 + MSE)
@@ -76,6 +79,7 @@ x = np.arange(0, 10, 0.1)
 plt.scatter(x, Y, color='b')
 fig.savefig('samples.png', dpi=fig.dpi)
 
+# for sigma in Ss:
 if True:
     # first population
     population = []
@@ -88,11 +92,24 @@ if True:
         population.append(individual)
     minMaxAveValues.append(minMaxAve(population))
     # print(population)
+
+    # population[0] = [8 / 5, 7 / 25, - 11 / 50, 1 / 50, 0]
+    # population[0][4] = fitnessFunction(population[0])
+    # print(population[0][4])
+
     for nOfG in range(numberOfGenerations):
-        if nOfG % 100 == 0:
+        if nOfG % 500 == 0:
             print("generation {} of {}".format(nOfG, numberOfGenerations))
             print("maxFitnessValue: {}".format(minMaxAveValues[nOfG][1]))
             print()
+            # fig = plt.figure()
+            # plt.scatter(x, Y, color='b')
+            # xHat = np.arange(0, 10, 0.01)
+            # ans = population[0]
+            # YHat = ans[0] + ans[1] * xHat ** 1 + ans[2] * xHat ** 2 + ans[3] * xHat ** 3
+            # plt.plot(xHat, YHat, color='r')
+            # plt.show()
+
         # tournament selection
         parentIndex = []
         for i in range(populationSize):
@@ -125,7 +142,6 @@ if True:
             # print()
 
         # mutation
-
         for i in range(len(children)):
             # print(children[i])
             mutation(children[i])
@@ -149,9 +165,9 @@ if True:
     YHat = ans[0] + ans[1] * xHat ** 1 + ans[2] * xHat ** 2 + ans[3] * xHat ** 3
     plt.plot(xHat, YHat, color='r')
     plt.show()
-    fig.savefig('finalAnswer-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
+    fig.savefig('Pictures/best/final/finalAnswer-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
 
-    print(ans)
+    print("finalAnswer: {}".format(ans))
     xAx = range(len(minMaxAveValues))
     minMaxAveValues = np.array(minMaxAveValues)
     # print(minMaxAveValues)
@@ -159,16 +175,16 @@ if True:
     plt.scatter(xAx, minMaxAveValues[:, 0])
     fig.suptitle('min-mR{}-sigma{}.png'.format(mutationRate, sigma), fontsize=10)
     plt.show()
-    fig.savefig('min-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
+    fig.savefig('Pictures/best/min/min-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
 
     fig = plt.figure()
     plt.scatter(xAx, minMaxAveValues[:, 1])
     fig.suptitle('max-mR{}-sigma{}.png'.format(mutationRate, sigma), fontsize=10)
     plt.show()
-    fig.savefig('max-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
+    fig.savefig('Pictures/best/max/max-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
 
     fig = plt.figure()
     plt.scatter(xAx, minMaxAveValues[:, 2])
     fig.suptitle('ave-mR{}-sigma{}.png'.format(mutationRate, sigma), fontsize=10)
     plt.show()
-    fig.savefig('ave-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
+    fig.savefig('Pictures/best/ave/ave-mR{}-sigma{}.png'.format(mutationRate, sigma), dpi=fig.dpi)
